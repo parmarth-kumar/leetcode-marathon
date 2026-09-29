@@ -1,0 +1,38 @@
+# Compiled binaries and object files
+*.exe
+*.o
+*.obj
+*.out
+*.app
+*.dll
+*.dylib
+*.so
+
+# Debug & symbols
+*.dSYM/
+*.pdb
+*.ilk
+
+# IDE & Editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Temporary and log files
+*.log
+*.tmp
+a.exe
+a.out
+
+# VS Code Code Runner output
+output/
+
+# Excalidraw
+excalidraw.log
